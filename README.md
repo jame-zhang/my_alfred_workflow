@@ -1,4 +1,4 @@
-> 个人编写的alfred workflow
+> 个人使用的的alfred workflow，包括自己编写以及分享别人的workflow
 ***
 
 ##### OpenUrl_Chrome.alfredworkflow  
@@ -15,3 +15,10 @@
 
 * `cr baidu.com`或者`chrome baidu.com`可以直接打开百度网页
 * `cr pw`直接打开google 设置页面里的密码页面
+
+
+##### NewFile.alfredworkflow
+> 直接在当前finder目录下创建新文件，[传送门](http://www.packal.org/workflow/newfile)
+
+##### TerminalFinder.alfredworkflow
+> 在当前finder目录下打开terminal，[传送门](http://www.packal.org/workflow/terminalfinder)
